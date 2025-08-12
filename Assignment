@@ -1,0 +1,10 @@
+var myName = "William Baldwin L. Dayrit";
+let myAge = "19";
+const PI = 3.1416;
+
+PI = 3.14; 
+TypeError: Assignment to constant variable.
+let myAge = 20;  
+let isStudent = myAge < 25;  
+
+console.log(isStudent); 
